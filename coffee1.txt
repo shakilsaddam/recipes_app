@@ -4,6 +4,10 @@ Coffee 1 recipe is here
 3.
 4.
 5.
+<<<<<<< HEAD
 6. test 1
 
+=======
+6. new line added from another location.
+>>>>>>> 4a5e14fba19160f3f4438d6dfd79b4cd6c3d47e8
 NB. New Lines added for testing.
