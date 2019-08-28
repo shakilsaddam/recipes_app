@@ -4,5 +4,5 @@ Coffee 1 recipe is here
 3.
 4.
 5.
-
+6. new line added from another location.
 NB. New Lines added for testing.
